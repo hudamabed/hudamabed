@@ -1,16 +1,30 @@
+# Hi there 👋
 
-# HELLO, I'm Huda!
-A fresh graduate computer Engneering, iOS Developer under learning..
+### I’m Huda, a fresh Computer Engineering graduate and an iOS developer under training.
 
-## My Projects 💼 
-- [Tooth Time] (https://github.com/hudamabed/ToothTime) – تطبيق لحجز مواعيد الأسنان باستخدام UIKit.
-- [Yummie App](https://github.com/hudamabed/Yummie) – تطبيق طلب طعام تعليمي باستخدام URLSession.
+---
 
-## 🧠 المهارات
-- Swift, UIKit, Storyboard
-- Firebase, Git, Xcode
-- Backend with Python (قيد التعلم)
+## 🚀 Projects
 
-## 📫 تواصل معي
-- [LinkedIn](https://www.linkedin.com/in/username)
-- Email: your.email@example.com
+- **[Tooth Time](https://github.com/hudamabed/ToothTime)**  
+  A dental appointment app built with UIKit and Storyboard.  
+
+- **[Yummie App](https://github.com/hudamabed/Yummie)**  
+  A food ordering app built using URLSession and clean architecture practices.
+
+---
+
+## 🧠 Skills
+
+- Swift, UIKit, Storyboard  
+- Xcode, Git, GitHub  
+- Firebase (Auth, Firestore), REST APIs  
+- UI/UX Design Thinking
+- CoreData 
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/hudamabed/)  
+- Email: hudamabed@gmail.com  
