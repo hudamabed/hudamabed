@@ -1,27 +1,10 @@
-**## Hi there 👋
 
-<!--
-**hudamabed/hudamabed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO, I'm Huda!
+A fresh graduate computer Engneering, iOS Developer under learning..
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**
-# مرحبًا 👋
-
-أنا [اسمك]، طالب/ة هندسة حاسوب ومطور/ة تطبيقات iOS 📱.
-
-## 💼 مشاريع مميزة
-- [Tooth Time](https://github.com/username/Tooth-Time) – تطبيق لحجز مواعيد الأسنان باستخدام UIKit.
-- [Yummie App](https://github.com/username/Yummie-App) – تطبيق طلب طعام تعليمي باستخدام URLSession.
+## My Projects 💼 
+- [Tooth Time] (https://github.com/hudamabed/ToothTime) – تطبيق لحجز مواعيد الأسنان باستخدام UIKit.
+- [Yummie App](https://github.com/hudamabed/Yummie) – تطبيق طلب طعام تعليمي باستخدام URLSession.
 
 ## 🧠 المهارات
 - Swift, UIKit, Storyboard
