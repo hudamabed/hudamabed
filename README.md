@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi :) 
 
-### I’m Huda, a fresh Computer Engineering graduate and an iOS developer under training.
+#### I’m Huda, a fresh Computer Engineering graduate and an iOS developer under learning.
 
 ---
 
