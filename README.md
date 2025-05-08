@@ -1,4 +1,3 @@
-# Hi :) 
 
 # I’m Huda, a fresh Computer Engineering graduate and an iOS developer under learning...
 
